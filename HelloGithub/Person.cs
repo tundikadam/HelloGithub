@@ -13,6 +13,7 @@ namespace HelloGithub
      
      public string Job{get;set;}
         public bool HaveGlasses { get; set; }
+        public string JobName { get; set; }
 
 
     }
